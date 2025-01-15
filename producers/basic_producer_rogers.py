@@ -61,7 +61,7 @@ def get_message_interval() -> int:
 # Define some lists for generating buzz messages
 ADJECTIVES: list = ["terrifying", "creepy", "chilling", "dreadful", "weird"]
 ACTIONS: list = ["ran", "slid", "flipped", "crawled", "skipped"]
-TOPICS: list = ["over a car", "down a mountain", "past a lion", "from a cheetah", "past a dinosaur"]
+TOPICS: list = ["over a whale", "down a mountain", "past a lion", "from a cheetah", "past a dinosaur"]
 
 #####################################
 # Define a function to generate buzz messages
